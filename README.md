@@ -45,3 +45,5 @@ Conclusion :
 -> The function is convex for p >= 1.
 
 -> This is supported by the convexity of norms and the max operator over convex functions.
+
+<ins> Part (b): Trace of a Symmetric Matrix </ins>
