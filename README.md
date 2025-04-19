@@ -55,4 +55,5 @@ Function :
 Approach :
 
 -> Simulate 2x2 symmetric matrices of the form:
+
       
