@@ -47,3 +47,10 @@ Conclusion :
 -> This is supported by the convexity of norms and the max operator over convex functions.
 
 <ins> Part (b): Trace of a Symmetric Matrix </ins>
+
+Function :
+
+  $f(X) = \sum^{n}_{i=1} \lambda{i}(X) = trace(X)$
+
+Approach :
+  
