@@ -53,4 +53,6 @@ Function :
   $f(X) = \sum^{n}_{i=1} \lambda{i}(X) = trace(X)$
 
 Approach :
-  
+
+-> Simulate 2x2 symmetric matrices of the form:
+      
