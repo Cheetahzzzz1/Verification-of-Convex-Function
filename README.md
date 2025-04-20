@@ -55,3 +55,20 @@ Function :
 Approach :
 
 -> Simulate 2x2 symmetric matrices of the form:
+
+  $$
+X = \begin{pmatrix}
+a & b\\
+b & c \\
+\end{pmatrix}
+  $$
+
+-> Fix b = 1 and vary a,c
+
+-> Use np.linalg.eigvalsh to compute the eigenvalues
+
+Conclusion :
+
+-> Trace is a linear function, hence both convex and concave.
+
+-> 3D surface appears as a plane.
