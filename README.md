@@ -72,3 +72,35 @@ Conclusion :
 -> Trace is a linear function, hence both convex and concave.
 
 -> 3D surface appears as a plane.
+
+<ins> Part (c): Minimum Eigenvalue</ins>
+
+Function :
+
+$$
+f(X) = \lambda_{min}(X)
+$$
+
+Approach :
+
+-> Same symmetric matrix simulation as part (b).
+
+-> Extract the minimum eigenvalue for each matrix.
+
+-> Visualize over varying a and c.
+
+Conclusion :
+
+-> The function is concave, not convex.
+
+-> This is evident from the downward curvature of the plot.
+
+# How to Run
+
+1. Install the dependencies
+
+          pip install numpy matplotlib
+
+2. Run the script or notebook to view the 3D plots and validate the convexity properties.
+
+# Notes
