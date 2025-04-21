@@ -104,3 +104,7 @@ Conclusion :
 2. Run the script or notebook to view the 3D plots and validate the convexity properties.
 
 # Notes
+
+1. For more rigorous verification of convexity, symbolic tools like cvxpy can be used.
+
+2. Eigenvalue-based functions are common in SDP (semidefinite programming) and optimization over matrix variables.
